@@ -1,0 +1,14 @@
+site_name: Boat vehicle
+
+nav:
+nav:
+- 主页: index.md
+
+- 赛事资源: 赛事资源.md
+
+- 快速上手指南: 快速上手指南.md
+
+- 评分细则: 评分细则.md
+
+theme:
+  name: 'material'
