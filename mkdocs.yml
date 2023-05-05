@@ -1,6 +1,6 @@
-site_name: Boat vehicle
+site_name: Maritime Intelligent Navigation
 
-nav:
+
 nav:
 - 主页: index.md
 
@@ -12,3 +12,7 @@ nav:
 
 theme:
   name: 'material'
+  logo: imagsea/logo.png
+  
+extra_css:
+  - css/custom.css
