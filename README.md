@@ -4,7 +4,7 @@
 ## 海上智能导航赛道
 #### 大赛报名网址：[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
  您可以在这里进行大赛报名
-#### 智慧树开源培训课程链接：
+#### 智慧树开源培训课程链接：[https://www.zhihuishu.com/](https://www.zhihuishu.com/)
  您可以在这里获取智慧树的赛前培训课程，快速上手基于Spaitlab-USV180的unity训练环境平台
 #### 赛道简介网址：[海上智能导航赛道](https://hangxingqi2023.github.io/Maritime-Intelligent-Navigation/)
  您可以在这里获取海上智能导航赛道的最新资讯，也可以在这里按照快速上手指南学习操作
