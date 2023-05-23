@@ -6,8 +6,7 @@
  您可以在这里进行大赛报名
 #### 智慧树开源培训课程链接：[https://www.zhihuishu.com/](https://www.zhihuishu.com/)
  您可以在这里获取智慧树的赛前培训课程，快速上手基于Spaitlab-USV180的unity训练环境平台
-#### 赛道简介网址：[海上智能导航赛道](https://hangxingqi2023.github.io/Maritime-Intelligent-Navigation/)
- 您可以在这里获取海上智能导航赛道的最新资讯，也可以在这里按照快速上手指南学习操作
+
 ### Maritime-Intelligent-Navigation平台简介
  该仓库是全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境源代码和软件文档的所在地，支持在unity海洋环境中模拟无人艇导航与避障训练。
 * 与全国海洋航行器设计与制作大赛组织者协调设计，该项目提供与现在和未来该项比赛中C4赛道类似的竞技场和任务，可以通过百度网盘链接获取unity平台的仿真环境工程文件。
@@ -27,17 +26,16 @@
  * 对于技术问题，可以给我们留言描述您的问题或请求支持。
 
 
-## Contributing
-This project is under active development to support the VRX and RobotX teams. We are adding and improving things all the time. Our primary focus is to provide the fundamental aspects of the robot and environment, but we rely on the community to develop additional functionality around their particular use cases.
+## 加入我们
+该项目正在积极开发中，以支持全国海洋航行器设计与制作大赛的C4赛道。 我们一直在添加和改进东西。 我们的主要重点是提供无人艇和Unity仿真环境，也欢迎大家围绕他们的特定用例开发额外的功能。
 
-If you have any questions about these topics, or would like to work on other aspects, please contribute.  You can contact us directly (see below), submit an [issue](https://github.com/osrf/vrx/issues) or, better yet, submit a [pull request](https://github.com/osrf/vrx/pulls/)!
+如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues))，或者提交一个[pull
+ request](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/pulls)！
 
-## Contributors
 
-We continue to receive important improvements from the community.  We have done our best to document this on our [Contributors Wiki](https://github.com/osrf/vrx/wiki/Contributors).
 
-## Contacts
+## 联系我们
 
- * Carlos Agüero <caguero@openrobotics.org>
+ * 加入比赛QQ交流群：xxxx
  * Michael McCarrin <mrmccarr@nps.edu>
  * Brian Bingham <bbingham@nps.edu>
