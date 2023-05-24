@@ -37,6 +37,5 @@
 
 ## 联系我们
 
- * 加入比赛QQ交流群：xxxx
- * Michael McCarrin <mrmccarr@nps.edu>
- * Brian Bingham <bbingham@nps.edu>
+* 智能无人航行器实验室：13366005075 / 840665161@qq.com
+* 大赛交流QQ群：711509724
