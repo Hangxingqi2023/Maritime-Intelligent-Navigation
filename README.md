@@ -30,7 +30,7 @@
 ## 加入我们
 * 该项目正在积极开发中，以支持全国海洋航行器设计与制作大赛的C4赛道。 我们一直在添加和改进东西。 我们的主要重点是提供无人艇和Unity仿真环境，也欢迎大家围绕他们的特定用例开发额外的功能。
 
-* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues))，或者提交一个[pull
+* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues)，或者提交一个[pull
  request](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/pulls)！
 
 
