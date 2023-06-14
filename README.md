@@ -3,7 +3,7 @@
 #### 大赛报名网址
  您可以在这里进行大赛报名:[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
 #### 线上开源培训课程链接
- 您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
+ 您可以在这里获取线上赛前培训课程：[课程链接]([https://www.zhihuishu.com/](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634))，快速上手基于unity的无人艇强化学习导航避障训练环境平台
 
 ## Maritime-Intelligent-Navigation仓库简介
 * 该仓库是全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境源代码和文档所在地。
