@@ -3,7 +3,7 @@
 #### 大赛报名网址
  您可以在这里进行大赛报名:[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
 #### 线上开源培训课程链接
- 您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/portals_h5/2clearning.html#/courseSearch?keyword=%E6%97%A0%E4%BA%BA%E8%89%87)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
+ 您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
  #### 训练环境Unity工程文件获取链接
  您可以在这里获取搭建Unity仿真环境的开源工程链接：[工程链接](https://pan.baidu.com/s/1dz6PhY-JvUe0cCGLYl-Vjw )，提取码：etk0，快速下载unity无人艇强化学习导航避障训练环境工程。
 
