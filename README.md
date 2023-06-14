@@ -3,7 +3,9 @@
 #### 大赛报名网址
  您可以在这里进行大赛报名:[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
 #### 线上开源培训课程链接
- 您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
+ 您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634))，快速上手基于unity的无人艇强化学习导航避障训练环境平台
+ #### 训练环境Unity工程文件获取链接
+ 您可以在这里获取搭建Unity仿真环境的开源工程链接：[工程链接](https://pan.baidu.com/s/1dz6PhY-JvUe0cCGLYl-Vjw )，提取码：etk0，快速下载unity无人艇强化学习导航避障训练环境工程。
 
 ## Maritime-Intelligent-Navigation仓库简介
 * 该仓库是全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境源代码和文档所在地。
@@ -30,7 +32,7 @@
 ## 加入我们
 * 该项目正在积极开发中，以支持全国海洋航行器设计与制作大赛的C4赛道。 我们一直在添加和改进东西。 我们的主要重点是提供无人艇和Unity仿真环境，也欢迎大家围绕他们的特定用例开发额外的功能。
 
-* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues))，或者提交一个[pull
+* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues)，或者提交一个[pull
  request](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/pulls)！
 
 
